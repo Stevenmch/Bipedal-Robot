@@ -1,6 +1,6 @@
 # Bipedal Robot 🤖 
 
-- Robot was designed in order to study and analyze the locomotion in humans. 
+- This Robot was designed in order to study and analyze the locomotion in humans. 
 
 ![](https://github.com/Stevenmch/Bipedal-Robot/blob/main/Img/Bipedal_Robot.png)
 
@@ -12,7 +12,7 @@
 
 #### Mechanism
 -  3D Printer Parts
-> Be careful, The quantity represents the number of times you should print the part because you will only find one quantity in the file STL.
+> Be careful, The quantity represents the number of times you should print that part because you will only find one quantity in the file STL.
 
 | Part      | Quantity |
 | --------- | -----:|
